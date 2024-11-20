@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Sourav's Blog - Cricketer and Game Developer">
-    <title>Sourav's Blog</title>
    
 </head>
 <body>
